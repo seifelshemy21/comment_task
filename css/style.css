@@ -88,3 +88,8 @@ body{
     display: flex;
     align-items: center;
 }
+@media (min-width: 350px) and (max-width: 570px){
+    .Fpost{
+        width: 100%;
+    }
+}
